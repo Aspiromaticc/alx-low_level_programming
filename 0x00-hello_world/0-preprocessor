@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp main.c > joules.c
+cpp main.c > main.c

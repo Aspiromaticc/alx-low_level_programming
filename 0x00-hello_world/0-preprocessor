@@ -1,2 +1,2 @@
 #!/bin/bash
-cpp main.c > main.c
+gcc -c $CFILE > ${CFILE::-2}”.o”
